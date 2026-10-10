@@ -1,0 +1,17 @@
+game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,check
+21545,3,2026-09-24 20:15:00-04:00,Green Bay Packers,Atlanta Falcons,FT,14.0,35.0,,,Lambeau Field,Green Bay,-4.5,43.5,,,bet365 (FOX),ref only
+21546,3,2026-09-27 13:00:00-04:00,Buffalo Bills,Los Angeles Chargers,FT,24.0,16.0,,,Highmark Stadium,Orchard Park,-7.5,50.5,-350.0,275.0,bet365 (FOX),ref only
+21547,3,2026-09-27 13:00:00-04:00,Cleveland Browns,Carolina Panthers,FT,21.0,18.0,,,Huntington Bank Field,Cleveland,2.5,41.5,115.0,-135.0,bet365 (FOX),ref only
+21548,3,2026-09-27 13:00:00-04:00,Detroit Lions,New York Jets,FT,31.0,24.0,,,Ford Field,Detroit,-6.5,48.5,-305.0,245.0,bet365 (FOX),ref only
+21549,3,2026-09-27 13:00:00-04:00,Indianapolis Colts,Houston Texans,FT,19.0,17.0,,,Lucas Oil Stadium,Indianapolis,1.5,42.5,105.0,-125.0,bet365 (FOX),ref only
+21550,3,2026-09-27 13:00:00-04:00,Miami Dolphins,Kansas City Chiefs,FT,10.0,24.0,,,Hard Rock Stadium,Miami Gardens,9.5,45.5,450.0,-600.0,bet365 (FOX),ref only
+21551,3,2026-09-27 13:00:00-04:00,New York Giants,Tennessee Titans,FT,12.0,7.0,,,MetLife Stadium,East Rutherford,-2.5,37.5,-135.0,115.0,bet365 (FOX),ref only
+21552,3,2026-09-27 13:00:00-04:00,Pittsburgh Steelers,Cincinnati Bengals,FT,30.0,27.0,,,Acrisure Stadium,Pittsburgh,3.5,42.5,150.0,-180.0,bet365 (FOX),ref only
+21553,3,2026-09-27 13:00:00-04:00,Washington Commanders,Seattle Seahawks,FT,33.0,31.0,,,Northwest Stadium,Landover,8.5,40.5,320.0,-400.0,bet365 (FOX),ref only
+21554,3,2026-09-27 13:00:00-04:00,Jacksonville Jaguars,New England Patriots,FT,35.0,6.0,,,EverBank Stadium,Jacksonville,-2.5,45.5,-150.0,125.0,bet365 (FOX),ref only
+21555,3,2026-09-27 16:05:00-04:00,San Francisco 49ers,Arizona Cardinals,FT,36.0,30.0,,,Levi's Stadium,Santa Clara,-7.5,48.5,-380.0,300.0,bet365 (FOX),ref only
+21556,3,2026-09-27 16:05:00-04:00,Tampa Bay Buccaneers,Minnesota Vikings,FT,16.0,23.0,,,Raymond James Stadium,Tampa,1.5,42.5,-105.0,-115.0,bet365 (FOX),ref only
+21557,3,2026-09-27 16:25:00-04:00,Dallas Cowboys,Baltimore Ravens,FT,31.0,34.0,,,Maracanã Stadium,Rio De Janeiro,3.5,53.5,150.0,-180.0,bet365 (FOX),ref only
+21558,3,2026-09-27 16:25:00-04:00,New Orleans Saints,Las Vegas Raiders,FT,27.0,35.0,,,Caesars Superdome,New Orleans,-3.5,43.5,-185.0,155.0,bet365 (FOX),ref only
+21559,3,2026-09-27 20:20:00-04:00,Denver Broncos,Los Angeles Rams,FT,30.0,26.0,,,Empower Field at Mile High,Denver,1.5,43.5,110.0,-130.0,bet365 (FOX),ref only
+21560,3,2026-09-28 20:15:00-04:00,Chicago Bears,Philadelphia Eagles,FT,27.0,7.0,,,Soldier Field,Chicago,3.5,42.5,155.0,-185.0,bet365 (FOX),ref only

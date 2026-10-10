@@ -1,0 +1,16 @@
+game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,check
+21577,5,2026-10-08 20:15:00-04:00,Dallas Cowboys,Tampa Bay Buccaneers,FT,16.0,24.0,,,AT&T Stadium,Arlington,-8.5,48.5,,,bet365 (FOX),ref only
+21578,5,2026-10-11 09:30:00-04:00,Jacksonville Jaguars,Philadelphia Eagles,NS,,,,,Tottenham Hotspur Stadium,London,-7.5,41.5,-395.0,310.0,DraftKings,ok
+21579,5,2026-10-11 13:00:00-04:00,Tennessee Titans,Houston Texans,NS,,,,,Nissan Stadium,Nashville,7.0,38.5,285.0,-360.0,DraftKings,ok
+21580,5,2026-10-11 13:00:00-04:00,Miami Dolphins,Cincinnati Bengals,NS,,,,,Hard Rock Stadium,Miami Gardens,7.0,43.5,280.0,-355.0,DraftKings,ok
+21581,5,2026-10-11 13:00:00-04:00,New England Patriots,Las Vegas Raiders,NS,,,,,Gillette Stadium,Foxborough,-3.5,45.5,-198.0,164.0,DraftKings,ok
+21582,5,2026-10-11 13:00:00-04:00,New Orleans Saints,Minnesota Vikings,NS,,,,,Caesars Superdome,New Orleans,2.5,41.5,120.0,-142.0,DraftKings,ok
+21583,5,2026-10-11 13:00:00-04:00,New York Jets,Cleveland Browns,NS,,,,,MetLife Stadium,East Rutherford,-2.5,39.5,-135.0,114.0,DraftKings,ok
+21584,5,2026-10-11 13:00:00-04:00,Pittsburgh Steelers,Indianapolis Colts,NS,,,,,Acrisure Stadium,Pittsburgh,-3.0,43.5,-148.0,124.0,DraftKings,ok
+21585,5,2026-10-11 13:00:00-04:00,Washington Commanders,New York Giants,NS,,,,,Northwest Stadium,Landover,-3.5,41.5,-170.0,142.0,DraftKings,ok
+21587,5,2026-10-11 13:00:00-04:00,Green Bay Packers,Chicago Bears,NS,,,,,Lambeau Field,Green Bay,1.5,45.5,105.0,-125.0,DraftKings,ok
+21586,5,2026-10-11 16:05:00-04:00,Los Angeles Chargers,Denver Broncos,NS,,,,,SoFi Stadium,Inglewood,3.5,41.5,160.0,-192.0,DraftKings,ok
+21588,5,2026-10-11 16:25:00-04:00,Arizona Cardinals,Detroit Lions,NS,,,,,State Farm Stadium,Glendale,5.5,54.5,205.0,-250.0,DraftKings,ok
+21589,5,2026-10-11 16:25:00-04:00,Seattle Seahawks,San Francisco 49ers,NS,,,,,Lumen Field,Seattle,-3.0,45.5,-162.0,136.0,DraftKings,ok
+21590,5,2026-10-11 20:20:00-04:00,Atlanta Falcons,Baltimore Ravens,NS,,,,,Mercedes-Benz Stadium,Atlanta,-3.5,43.5,-180.0,150.0,DraftKings,ok
+21591,5,2026-10-12 20:15:00-04:00,Los Angeles Rams,Buffalo Bills,NS,,,,,SoFi Stadium,Inglewood,-3.0,54.5,-175.0,145.0,DraftKings,ok
