@@ -1,0 +1,52 @@
+name: NFL weekly pull
+
+# Pulls results and DraftKings lines, records line history, and merges completed weeks.
+# Times are UTC. ~5 runs/week x 3 Odds API credits = ~65 credits/month (free tier: 500).
+on:
+  schedule:
+    - cron: "7 15 * * 2"    # Tue ~11am ET: merge last week, opening lines for the new week
+    - cron: "7 20 * * 4"    # Thu ~4pm ET: before Thursday night
+    - cron: "7 16 * * 6"    # Sat ~noon ET: before Sunday (incl. London 9:30am ET games)
+    - cron: "7 15 * * 0"    # Sun ~11am ET: before the early games
+    - cron: "7 21 * * 1"    # Mon ~5pm ET: before Monday night
+  workflow_dispatch: {}     # "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nfl-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pandas pyarrow numpy requests
+
+      - name: Pull results and lines, merge completed weeks
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/pull_week.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Automated NFL pull $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
