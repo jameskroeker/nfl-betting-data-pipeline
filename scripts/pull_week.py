@@ -172,8 +172,9 @@ def run(games: pd.DataFrame, dk: dict, now: datetime) -> None:
 
 def main():
     now = datetime.now(timezone.utc)
-    games = fetch_games(os.environ["API_SPORTS_KEY"])
-    dk = fetch_dk_lines(os.environ["ODDS_API_KEY"])
+    # .strip(): secrets pasted with a trailing newline otherwise break the request (seen as %0A in the URL)
+    games = fetch_games(os.environ["API_SPORTS_KEY"].strip())
+    dk = fetch_dk_lines(os.environ["ODDS_API_KEY"].strip())
     print(f"Run at {now:%Y-%m-%d %H:%M} UTC | {SEASON} regular-season games: {len(games)} | DraftKings games listed: {len(dk)}")
     run(games, dk, now)
 
