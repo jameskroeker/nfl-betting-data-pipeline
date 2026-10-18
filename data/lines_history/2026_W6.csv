@@ -12,3 +12,8 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-10-18T04:11Z,21603,6,2026-10-18 16:25:00-04:00,Las Vegas Raiders,Buffalo Bills,5.5,53.5,210,-258
 2026-10-18T04:11Z,21604,6,2026-10-18 20:20:00-04:00,Green Bay Packers,Dallas Cowboys,-1.5,53.5,-115,-105
 2026-10-18T04:11Z,21605,6,2026-10-19 20:15:00-04:00,San Francisco 49ers,Washington Commanders,-7.5,52.5,-470,360
+2026-10-18T18:00Z,21601,6,2026-10-18 16:05:00-04:00,Los Angeles Rams,Arizona Cardinals,-12.5,51.5,-750,525
+2026-10-18T18:00Z,21602,6,2026-10-18 16:25:00-04:00,Kansas City Chiefs,Los Angeles Chargers,-7.5,41.5,-425,330
+2026-10-18T18:00Z,21603,6,2026-10-18 16:25:00-04:00,Las Vegas Raiders,Buffalo Bills,5.5,53.5,200,-245
+2026-10-18T18:00Z,21604,6,2026-10-18 20:20:00-04:00,Green Bay Packers,Dallas Cowboys,-1.5,53.5,-115,-105
+2026-10-18T18:00Z,21605,6,2026-10-19 20:15:00-04:00,San Francisco 49ers,Washington Commanders,-7.5,52.5,-455,350
