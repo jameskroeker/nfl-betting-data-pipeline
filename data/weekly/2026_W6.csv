@@ -1,15 +1,15 @@
 game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,line_pulled_utc
 21592,6,2026-10-15 20:15:00-04:00,Denver Broncos,Seattle Seahawks,AOT,17.0,14.0,3.0,0.0,Empower Field at Mile High,Denver,2.5,40.5,122,-144,bet365 (FOX),
 21593,6,2026-10-18 09:30:00-04:00,Jacksonville Jaguars,Houston Texans,FT,31.0,34.0,,,Wembley Stadium,London,-2.5,41.5,-148,124,DraftKings,2026-10-18T04:11Z
-21594,6,2026-10-18 13:00:00-04:00,Atlanta Falcons,Chicago Bears,Q2,0.0,14.0,,,Mercedes-Benz Stadium,Atlanta,1.5,52.5,100,-120,DraftKings,2026-10-18T04:11Z
-21595,6,2026-10-18 13:00:00-04:00,Cleveland Browns,Baltimore Ravens,Q2,0.0,10.0,,,Huntington Bank Field,Cleveland,3.0,39.5,140,-166,DraftKings,2026-10-18T04:11Z
-21596,6,2026-10-18 13:00:00-04:00,Indianapolis Colts,Tennessee Titans,Q2,7.0,0.0,,,Lucas Oil Stadium,Indianapolis,-6.5,44.5,-325,260,DraftKings,2026-10-18T04:11Z
-21597,6,2026-10-18 13:00:00-04:00,New England Patriots,New York Jets,Q2,7.0,3.0,,,Gillette Stadium,Foxborough,-7.5,43.5,-355,280,DraftKings,2026-10-18T04:11Z
-21598,6,2026-10-18 13:00:00-04:00,New York Giants,New Orleans Saints,Q2,7.0,0.0,,,MetLife Stadium,East Rutherford,-1.5,46.5,-112,-108,DraftKings,2026-10-18T04:11Z
-21599,6,2026-10-18 13:00:00-04:00,Philadelphia Eagles,Carolina Panthers,Q2,0.0,3.0,,,Lincoln Financial Field,Philadelphia,3.0,39.5,140,-166,DraftKings,2026-10-18T04:11Z
-21600,6,2026-10-18 13:00:00-04:00,Tampa Bay Buccaneers,Pittsburgh Steelers,Q2,10.0,0.0,,,Raymond James Stadium,Tampa,2.5,38.5,124,-148,DraftKings,2026-10-18T04:11Z
-21601,6,2026-10-18 16:05:00-04:00,Los Angeles Rams,Arizona Cardinals,NS,,,,,SoFi Stadium,Inglewood,-12.5,51.5,-750,525,DraftKings,2026-10-18T18:00Z
-21602,6,2026-10-18 16:25:00-04:00,Kansas City Chiefs,Los Angeles Chargers,NS,,,,,Arrowhead Stadium,Kansas City,-7.5,41.5,-425,330,DraftKings,2026-10-18T18:00Z
-21603,6,2026-10-18 16:25:00-04:00,Las Vegas Raiders,Buffalo Bills,NS,,,,,Allegiant Stadium,Las Vegas,5.5,53.5,200,-245,DraftKings,2026-10-18T18:00Z
-21604,6,2026-10-18 20:20:00-04:00,Green Bay Packers,Dallas Cowboys,NS,,,,,Lambeau Field,Green Bay,-1.5,53.5,-115,-105,DraftKings,2026-10-18T18:00Z
+21594,6,2026-10-18 13:00:00-04:00,Atlanta Falcons,Chicago Bears,FT,23.0,31.0,,,Mercedes-Benz Stadium,Atlanta,1.5,52.5,100,-120,DraftKings,2026-10-18T04:11Z
+21595,6,2026-10-18 13:00:00-04:00,Cleveland Browns,Baltimore Ravens,FT,13.0,10.0,,,Huntington Bank Field,Cleveland,3.0,39.5,140,-166,DraftKings,2026-10-18T04:11Z
+21596,6,2026-10-18 13:00:00-04:00,Indianapolis Colts,Tennessee Titans,FT,20.0,26.0,,,Lucas Oil Stadium,Indianapolis,-6.5,44.5,-325,260,DraftKings,2026-10-18T04:11Z
+21597,6,2026-10-18 13:00:00-04:00,New England Patriots,New York Jets,FT,26.0,19.0,,,Gillette Stadium,Foxborough,-7.5,43.5,-355,280,DraftKings,2026-10-18T04:11Z
+21598,6,2026-10-18 13:00:00-04:00,New York Giants,New Orleans Saints,FT,27.0,34.0,,,MetLife Stadium,East Rutherford,-1.5,46.5,-112,-108,DraftKings,2026-10-18T04:11Z
+21599,6,2026-10-18 13:00:00-04:00,Philadelphia Eagles,Carolina Panthers,FT,14.0,25.0,,,Lincoln Financial Field,Philadelphia,3.0,39.5,140,-166,DraftKings,2026-10-18T04:11Z
+21600,6,2026-10-18 13:00:00-04:00,Tampa Bay Buccaneers,Pittsburgh Steelers,AOT,19.0,26.0,0.0,7.0,Raymond James Stadium,Tampa,2.5,38.5,124,-148,DraftKings,2026-10-18T04:11Z
+21601,6,2026-10-18 16:05:00-04:00,Los Angeles Rams,Arizona Cardinals,FT,16.0,18.0,,,SoFi Stadium,Inglewood,-12.5,51.5,-750,525,DraftKings,2026-10-18T18:00Z
+21602,6,2026-10-18 16:25:00-04:00,Kansas City Chiefs,Los Angeles Chargers,FT,22.0,6.0,,,Arrowhead Stadium,Kansas City,-7.5,41.5,-425,330,DraftKings,2026-10-18T18:00Z
+21603,6,2026-10-18 16:25:00-04:00,Las Vegas Raiders,Buffalo Bills,FT,30.0,33.0,,,Allegiant Stadium,Las Vegas,5.5,53.5,200,-245,DraftKings,2026-10-18T18:00Z
+21604,6,2026-10-18 20:20:00-04:00,Green Bay Packers,Dallas Cowboys,FT,23.0,13.0,,,Lambeau Field,Green Bay,-1.5,53.5,-115,-105,DraftKings,2026-10-18T18:00Z
 21605,6,2026-10-19 20:15:00-04:00,San Francisco 49ers,Washington Commanders,NS,,,,,Levi's Stadium,Santa Clara,-7.5,52.5,-455,350,DraftKings,2026-10-18T18:00Z
