@@ -1,15 +1,15 @@
 game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,line_pulled_utc
-21620,8,2026-10-29 20:15:00-04:00,Green Bay Packers,Carolina Panthers,NS,,,,,Lambeau Field,Green Bay,-3.0,47.5,-155.0,130.0,DraftKings,2026-10-22T23:16Z
-21621,8,2026-11-01 13:00:00-05:00,Buffalo Bills,Baltimore Ravens,NS,,,,,Highmark Stadium,Orchard Park,-3.0,52.5,-175.0,145.0,DraftKings,2026-10-22T23:16Z
-21622,8,2026-11-01 13:00:00-05:00,Cincinnati Bengals,Tennessee Titans,NS,,,,,Paycor Stadium,Cincinnati,-10.0,46.5,-575.0,425.0,DraftKings,2026-10-22T23:16Z
-21623,8,2026-11-01 13:00:00-05:00,Dallas Cowboys,Arizona Cardinals,NS,,,,,AT&T Stadium,Arlington,-6.5,51.5,-305.0,245.0,DraftKings,2026-10-22T23:16Z
-21624,8,2026-11-01 13:00:00-05:00,Detroit Lions,Minnesota Vikings,NS,,,,,Ford Field,Detroit,-2.5,46.5,-155.0,130.0,DraftKings,2026-10-22T23:16Z
+21620,8,2026-10-29 20:15:00-04:00,Green Bay Packers,Carolina Panthers,NS,,,,,Lambeau Field,Green Bay,-3.0,47.5,-162.0,136.0,DraftKings,2026-10-24T18:45Z
+21621,8,2026-11-01 13:00:00-05:00,Buffalo Bills,Baltimore Ravens,NS,,,,,Highmark Stadium,Orchard Park,-3.0,52.5,-175.0,145.0,DraftKings,2026-10-24T18:45Z
+21622,8,2026-11-01 13:00:00-05:00,Cincinnati Bengals,Tennessee Titans,NS,,,,,Paycor Stadium,Cincinnati,-10.0,46.5,-575.0,425.0,DraftKings,2026-10-24T18:45Z
+21623,8,2026-11-01 13:00:00-05:00,Dallas Cowboys,Arizona Cardinals,NS,,,,,AT&T Stadium,Arlington,-6.5,51.5,-298.0,240.0,DraftKings,2026-10-24T18:45Z
+21624,8,2026-11-01 13:00:00-05:00,Detroit Lions,Minnesota Vikings,NS,,,,,Ford Field,Detroit,-2.5,46.5,-155.0,130.0,DraftKings,2026-10-24T18:45Z
 21625,8,2026-11-01 13:00:00-05:00,New York Jets,Las Vegas Raiders,NS,,,,,MetLife Stadium,East Rutherford,,,,,,
-21626,8,2026-11-01 13:00:00-05:00,Pittsburgh Steelers,Cleveland Browns,NS,,,,,Acrisure Stadium,Pittsburgh,-4.5,38.5,-205.0,170.0,DraftKings,2026-10-22T23:16Z
-21627,8,2026-11-01 13:00:00-05:00,Tampa Bay Buccaneers,Atlanta Falcons,NS,,,,,Raymond James Stadium,Tampa,-1.5,44.5,-118.0,-102.0,DraftKings,2026-10-22T23:16Z
-21628,8,2026-11-01 13:00:00-05:00,Jacksonville Jaguars,Indianapolis Colts,NS,,,,,EverBank Stadium,Jacksonville,-7.5,47.5,-360.0,285.0,DraftKings,2026-10-22T23:16Z
-21629,8,2026-11-01 16:05:00-05:00,Los Angeles Rams,Los Angeles Chargers,NS,,,,,SoFi Stadium,Inglewood,-7.0,45.5,-305.0,245.0,DraftKings,2026-10-22T23:16Z
-21630,8,2026-11-01 16:25:00-05:00,Denver Broncos,Kansas City Chiefs,NS,,,,,Empower Field at Mile High,Denver,1.5,42.5,102.0,-122.0,DraftKings,2026-10-22T23:16Z
-21631,8,2026-11-01 16:25:00-05:00,Miami Dolphins,New England Patriots,NS,,,,,Hard Rock Stadium,Miami Gardens,7.5,44.5,330.0,-425.0,DraftKings,2026-10-22T23:16Z
-21632,8,2026-11-01 20:20:00-05:00,Washington Commanders,Philadelphia Eagles,NS,,,,,Northwest Stadium,Landover,-3.5,41.5,-180.0,150.0,DraftKings,2026-10-22T23:16Z
-21633,8,2026-11-02 20:15:00-05:00,Seattle Seahawks,Chicago Bears,NS,,,,,Lumen Field,Seattle,-3.0,46.5,-162.0,136.0,DraftKings,2026-10-22T23:16Z
+21626,8,2026-11-01 13:00:00-05:00,Pittsburgh Steelers,Cleveland Browns,NS,,,,,Acrisure Stadium,Pittsburgh,-4.5,38.5,-205.0,170.0,DraftKings,2026-10-24T18:45Z
+21627,8,2026-11-01 13:00:00-05:00,Tampa Bay Buccaneers,Atlanta Falcons,NS,,,,,Raymond James Stadium,Tampa,-1.5,44.5,-118.0,-102.0,DraftKings,2026-10-24T18:45Z
+21628,8,2026-11-01 13:00:00-05:00,Jacksonville Jaguars,Indianapolis Colts,NS,,,,,EverBank Stadium,Jacksonville,-7.5,47.5,-375.0,295.0,DraftKings,2026-10-24T18:45Z
+21629,8,2026-11-01 16:05:00-05:00,Los Angeles Rams,Los Angeles Chargers,NS,,,,,SoFi Stadium,Inglewood,-7.0,45.5,-305.0,245.0,DraftKings,2026-10-24T18:45Z
+21630,8,2026-11-01 16:25:00-05:00,Denver Broncos,Kansas City Chiefs,NS,,,,,Empower Field at Mile High,Denver,1.5,42.5,102.0,-122.0,DraftKings,2026-10-24T18:45Z
+21631,8,2026-11-01 16:25:00-05:00,Miami Dolphins,New England Patriots,NS,,,,,Hard Rock Stadium,Miami Gardens,8.5,44.5,360.0,-470.0,DraftKings,2026-10-24T18:45Z
+21632,8,2026-11-01 20:20:00-05:00,Washington Commanders,Philadelphia Eagles,NS,,,,,Northwest Stadium,Landover,-3.5,41.5,-180.0,150.0,DraftKings,2026-10-24T18:45Z
+21633,8,2026-11-02 20:15:00-05:00,Seattle Seahawks,Chicago Bears,NS,,,,,Lumen Field,Seattle,-3.0,46.5,-162.0,136.0,DraftKings,2026-10-24T18:45Z
