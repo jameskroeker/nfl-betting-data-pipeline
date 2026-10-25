@@ -65,3 +65,8 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-10-24T18:45Z,21617,7,2026-10-25 16:25:00-04:00,Las Vegas Raiders,Los Angeles Rams,3.0,48.5,145,-175
 2026-10-24T18:45Z,21618,7,2026-10-25 20:20:00-04:00,Seattle Seahawks,Kansas City Chiefs,-3.0,42.5,-142,120
 2026-10-24T18:45Z,21619,7,2026-10-26 20:15:00-04:00,Philadelphia Eagles,Dallas Cowboys,4.5,44.5,180,-218
+2026-10-25T18:20Z,21615,7,2026-10-25 16:05:00-04:00,Arizona Cardinals,Denver Broncos,4.5,43.5,195,-238
+2026-10-25T18:20Z,21616,7,2026-10-25 16:25:00-04:00,Detroit Lions,Green Bay Packers,-3.5,55.5,-192,160
+2026-10-25T18:20Z,21617,7,2026-10-25 16:25:00-04:00,Las Vegas Raiders,Los Angeles Rams,3.5,48.5,154,-185
+2026-10-25T18:20Z,21618,7,2026-10-25 20:20:00-04:00,Seattle Seahawks,Kansas City Chiefs,-3.0,42.5,-148,124
+2026-10-25T18:20Z,21619,7,2026-10-26 20:15:00-04:00,Philadelphia Eagles,Dallas Cowboys,4.5,43.5,180,-218
