@@ -1,15 +1,15 @@
 game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,line_pulled_utc
-21620,8,2026-10-29 20:15:00-04:00,Green Bay Packers,Carolina Panthers,NS,,,,,Lambeau Field,Green Bay,-3.5,47.5,-185,154,DraftKings,2026-10-29T23:54Z
-21621,8,2026-11-01 13:00:00-05:00,Buffalo Bills,Baltimore Ravens,NS,,,,,Highmark Stadium,Orchard Park,-3.0,54.5,-170,142,DraftKings,2026-10-29T23:54Z
-21622,8,2026-11-01 13:00:00-05:00,Cincinnati Bengals,Tennessee Titans,NS,,,,,Paycor Stadium,Cincinnati,-11.5,46.5,-625,455,DraftKings,2026-10-29T23:54Z
-21623,8,2026-11-01 13:00:00-05:00,Dallas Cowboys,Arizona Cardinals,NS,,,,,AT&T Stadium,Arlington,-7.0,54.5,-310,250,DraftKings,2026-10-29T23:54Z
-21624,8,2026-11-01 13:00:00-05:00,Detroit Lions,Minnesota Vikings,NS,,,,,Ford Field,Detroit,-3.0,46.5,-170,142,DraftKings,2026-10-29T23:54Z
-21625,8,2026-11-01 13:00:00-05:00,New York Jets,Las Vegas Raiders,NS,,,,,MetLife Stadium,East Rutherford,-1.5,45.5,-122,102,DraftKings,2026-10-29T23:54Z
-21626,8,2026-11-01 13:00:00-05:00,Pittsburgh Steelers,Cleveland Browns,NS,,,,,Acrisure Stadium,Pittsburgh,-3.5,39.5,-192,160,DraftKings,2026-10-29T23:54Z
-21627,8,2026-11-01 13:00:00-05:00,Tampa Bay Buccaneers,Atlanta Falcons,NS,,,,,Raymond James Stadium,Tampa,-2.5,44.5,-142,120,DraftKings,2026-10-29T23:54Z
-21628,8,2026-11-01 13:00:00-05:00,Jacksonville Jaguars,Indianapolis Colts,NS,,,,,EverBank Stadium,Jacksonville,-10.0,46.5,-500,380,DraftKings,2026-10-29T23:54Z
-21629,8,2026-11-01 16:05:00-05:00,Los Angeles Rams,Los Angeles Chargers,NS,,,,,SoFi Stadium,Inglewood,-6.5,45.5,-270,220,DraftKings,2026-10-29T23:54Z
-21630,8,2026-11-01 16:25:00-05:00,Denver Broncos,Kansas City Chiefs,NS,,,,,Empower Field at Mile High,Denver,1.5,40.5,-102,-118,DraftKings,2026-10-29T23:54Z
-21631,8,2026-11-01 16:25:00-05:00,Miami Dolphins,New England Patriots,NS,,,,,Hard Rock Stadium,Miami Gardens,7.0,43.5,260,-325,DraftKings,2026-10-29T23:54Z
-21632,8,2026-11-01 20:20:00-05:00,Washington Commanders,Philadelphia Eagles,NS,,,,,Northwest Stadium,Landover,-6.0,40.5,-250,205,DraftKings,2026-10-29T23:54Z
-21633,8,2026-11-02 20:15:00-05:00,Seattle Seahawks,Chicago Bears,NS,,,,,Lumen Field,Seattle,-3.0,46.5,-170,142,DraftKings,2026-10-29T23:54Z
+21620,8,2026-10-29 20:15:00-04:00,Green Bay Packers,Carolina Panthers,FT,27.0,19.0,,,Lambeau Field,Green Bay,-3.5,47.5,-185,154,DraftKings,2026-10-29T23:54Z
+21621,8,2026-11-01 13:00:00-05:00,Buffalo Bills,Baltimore Ravens,NS,,,,,Highmark Stadium,Orchard Park,-3.0,54.5,-166,140,DraftKings,2026-10-31T19:55Z
+21622,8,2026-11-01 13:00:00-05:00,Cincinnati Bengals,Tennessee Titans,NS,,,,,Paycor Stadium,Cincinnati,-12.5,46.5,-675,490,DraftKings,2026-10-31T19:55Z
+21623,8,2026-11-01 13:00:00-05:00,Dallas Cowboys,Arizona Cardinals,NS,,,,,AT&T Stadium,Arlington,-7.0,54.5,-310,250,DraftKings,2026-10-31T19:55Z
+21624,8,2026-11-01 13:00:00-05:00,Detroit Lions,Minnesota Vikings,NS,,,,,Ford Field,Detroit,-3.0,46.5,-170,142,DraftKings,2026-10-31T19:55Z
+21625,8,2026-11-01 13:00:00-05:00,New York Jets,Las Vegas Raiders,NS,,,,,MetLife Stadium,East Rutherford,-1.5,45.5,-122,102,DraftKings,2026-10-31T19:55Z
+21626,8,2026-11-01 13:00:00-05:00,Pittsburgh Steelers,Cleveland Browns,NS,,,,,Acrisure Stadium,Pittsburgh,-3.5,39.5,-192,160,DraftKings,2026-10-31T19:55Z
+21627,8,2026-11-01 13:00:00-05:00,Tampa Bay Buccaneers,Atlanta Falcons,NS,,,,,Raymond James Stadium,Tampa,-2.5,43.5,-135,114,DraftKings,2026-10-31T19:55Z
+21628,8,2026-11-01 13:00:00-05:00,Jacksonville Jaguars,Indianapolis Colts,NS,,,,,EverBank Stadium,Jacksonville,-10.0,46.5,-500,380,DraftKings,2026-10-31T19:55Z
+21629,8,2026-11-01 16:05:00-05:00,Los Angeles Rams,Los Angeles Chargers,NS,,,,,SoFi Stadium,Inglewood,-6.5,45.5,-278,225,DraftKings,2026-10-31T19:55Z
+21630,8,2026-11-01 16:25:00-05:00,Denver Broncos,Kansas City Chiefs,NS,,,,,Empower Field at Mile High,Denver,1.5,40.5,-102,-118,DraftKings,2026-10-31T19:55Z
+21631,8,2026-11-01 16:25:00-05:00,Miami Dolphins,New England Patriots,NS,,,,,Hard Rock Stadium,Miami Gardens,7.0,43.5,260,-325,DraftKings,2026-10-31T19:55Z
+21632,8,2026-11-01 20:20:00-05:00,Washington Commanders,Philadelphia Eagles,NS,,,,,Northwest Stadium,Landover,-6.0,40.5,-258,210,DraftKings,2026-10-31T19:55Z
+21633,8,2026-11-02 20:15:00-05:00,Seattle Seahawks,Chicago Bears,NS,,,,,Lumen Field,Seattle,-3.0,46.5,-170,142,DraftKings,2026-10-31T19:55Z
