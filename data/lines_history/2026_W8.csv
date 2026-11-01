@@ -79,3 +79,8 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-10-31T19:55Z,21631,8,2026-11-01 16:25:00-05:00,Miami Dolphins,New England Patriots,7.0,43.5,260,-325
 2026-10-31T19:55Z,21632,8,2026-11-01 20:20:00-05:00,Washington Commanders,Philadelphia Eagles,-6.0,40.5,-258,210
 2026-10-31T19:55Z,21633,8,2026-11-02 20:15:00-05:00,Seattle Seahawks,Chicago Bears,-3.0,46.5,-170,142
+2026-11-01T19:30Z,21629,8,2026-11-01 16:05:00-05:00,Los Angeles Rams,Los Angeles Chargers,-6.5,45.5,-285,230
+2026-11-01T19:30Z,21630,8,2026-11-01 16:25:00-05:00,Denver Broncos,Kansas City Chiefs,1.5,41.5,-108,-112
+2026-11-01T19:30Z,21631,8,2026-11-01 16:25:00-05:00,Miami Dolphins,New England Patriots,7.0,41.5,275,-345
+2026-11-01T19:30Z,21632,8,2026-11-01 20:20:00-05:00,Washington Commanders,Philadelphia Eagles,-6.0,40.5,-270,220
+2026-11-01T19:30Z,21633,8,2026-11-02 20:15:00-05:00,Seattle Seahawks,Chicago Bears,-3.0,46.5,-166,140
