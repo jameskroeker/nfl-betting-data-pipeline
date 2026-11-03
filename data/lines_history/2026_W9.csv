@@ -29,3 +29,16 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-10-31T19:55Z,21646,9,2026-11-08 16:25:00-05:00,Seattle Seahawks,Arizona Cardinals,-10.5,44.5,-650,470
 2026-10-31T19:55Z,21647,9,2026-11-08 20:20:00-05:00,Chicago Bears,Tampa Bay Buccaneers,-6.0,47.5,-270,220
 2026-10-31T19:55Z,21648,9,2026-11-09 20:15:00-05:00,Minnesota Vikings,Buffalo Bills,2.5,47.5,120,-142
+2026-11-03T02:52Z,21634,9,2026-11-05 20:15:00-05:00,Baltimore Ravens,Jacksonville Jaguars,8.5,42.5,350,-455
+2026-11-03T02:52Z,21635,9,2026-11-08 09:30:00-05:00,Atlanta Falcons,Cincinnati Bengals,3.0,52.5,136,-162
+2026-11-03T02:52Z,21636,9,2026-11-08 13:00:00-05:00,Indianapolis Colts,Dallas Cowboys,6.0,51.5,220,-270
+2026-11-03T02:52Z,21637,9,2026-11-08 13:00:00-05:00,Kansas City Chiefs,New York Jets,-9.5,46.5,-485,370
+2026-11-03T02:52Z,21638,9,2026-11-08 13:00:00-05:00,Miami Dolphins,Detroit Lions,7.0,50.5,285,-360
+2026-11-03T02:52Z,21639,9,2026-11-08 13:00:00-05:00,New Orleans Saints,Cleveland Browns,-2.5,43.5,-142,120
+2026-11-03T02:52Z,21640,9,2026-11-08 13:00:00-05:00,Philadelphia Eagles,New York Giants,3.5,40.5,142,-170
+2026-11-03T02:52Z,21641,9,2026-11-08 13:00:00-05:00,Washington Commanders,Los Angeles Rams,5.5,47.5,190,-230
+2026-11-03T02:52Z,21642,9,2026-11-08 13:00:00-05:00,Carolina Panthers,Denver Broncos,3.0,43.5,124,-148
+2026-11-03T02:52Z,21643,9,2026-11-08 16:05:00-05:00,Los Angeles Chargers,Houston Texans,4.5,40.5,180,-218
+2026-11-03T02:52Z,21644,9,2026-11-08 16:25:00-05:00,San Francisco 49ers,Las Vegas Raiders,-10.0,51.5,-550,410
+2026-11-03T02:52Z,21645,9,2026-11-08 16:25:00-05:00,New England Patriots,Green Bay Packers,-3.0,46.5,-155,130
+2026-11-03T02:52Z,21648,9,2026-11-09 20:15:00-05:00,Minnesota Vikings,Buffalo Bills,3.5,46.5,154,-185
