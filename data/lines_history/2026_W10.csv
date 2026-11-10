@@ -25,3 +25,15 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-07T20:11Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,3.5,53.5,164,-198
 2026-11-07T20:11Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,47.5,-180,150
 2026-11-07T20:11Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-1.5,37.5,-118,-102
+2026-11-10T03:27Z,21649,10,2026-11-12 20:15:00-05:00,New York Giants,Washington Commanders,-2.5,42.5,-130,110
+2026-11-10T03:27Z,21650,10,2026-11-15 09:30:00-05:00,Detroit Lions,New England Patriots,-2.5,51.5,-155,130
+2026-11-10T03:27Z,21651,10,2026-11-15 13:00:00-05:00,Atlanta Falcons,Kansas City Chiefs,3.5,45.5,150,-180
+2026-11-10T03:27Z,21652,10,2026-11-15 13:00:00-05:00,Cleveland Browns,Houston Texans,4.5,39.5,190,-230
+2026-11-10T03:27Z,21654,10,2026-11-15 13:00:00-05:00,Tennessee Titans,Jacksonville Jaguars,10.0,46.5,400,-535
+2026-11-10T03:27Z,21655,10,2026-11-15 13:00:00-05:00,Indianapolis Colts,Miami Dolphins,-2.5,40.5,-135,114
+2026-11-10T03:27Z,21656,10,2026-11-15 13:00:00-05:00,New Orleans Saints,Carolina Panthers,-1.5,47.5,-120,100
+2026-11-10T03:27Z,21658,10,2026-11-15 16:05:00-05:00,Las Vegas Raiders,Seattle Seahawks,3.5,43.5,150,-180
+2026-11-10T03:27Z,21659,10,2026-11-15 16:05:00-05:00,Arizona Cardinals,Los Angeles Rams,9.5,40.5,350,-455
+2026-11-10T03:27Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,3.5,55.5,180,-218
+2026-11-10T03:27Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,48.5,-180,150
+2026-11-10T03:27Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-5.5,38.5,-225,185

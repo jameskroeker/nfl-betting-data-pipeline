@@ -1,16 +1,16 @@
 game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,line_pulled_utc
 21634,9,2026-11-05 20:15:00-05:00,Baltimore Ravens,Jacksonville Jaguars,FT,10.0,33.0,,,M&T Bank Stadium,Baltimore,8.5,40.5,340,-440,DraftKings,2026-11-06T00:57Z
 21635,9,2026-11-08 09:30:00-05:00,Atlanta Falcons,Cincinnati Bengals,FT,17.0,34.0,,,Santiago Bernabéu,Madrid,3.0,52.5,145,-175,DraftKings,2026-11-07T20:11Z
-21636,9,2026-11-08 13:00:00-05:00,Indianapolis Colts,Dallas Cowboys,Q2,7.0,10.0,,,Lucas Oil Stadium,Indianapolis,4.5,51.5,185,-225,DraftKings,2026-11-07T20:11Z
-21637,9,2026-11-08 13:00:00-05:00,Kansas City Chiefs,New York Jets,Q2,14.0,12.0,,,Arrowhead Stadium,Kansas City,-9.5,48.5,-535,400,DraftKings,2026-11-07T20:11Z
-21638,9,2026-11-08 13:00:00-05:00,Miami Dolphins,Detroit Lions,HT,3.0,6.0,,,Hard Rock Stadium,Miami Gardens,6.5,49.5,250,-310,DraftKings,2026-11-07T20:11Z
-21639,9,2026-11-08 13:00:00-05:00,New Orleans Saints,Cleveland Browns,HT,3.0,3.0,,,Caesars Superdome,New Orleans,-3.0,42.5,-166,140,DraftKings,2026-11-07T20:11Z
-21640,9,2026-11-08 13:00:00-05:00,Philadelphia Eagles,New York Giants,Q2,8.0,6.0,,,Lincoln Financial Field,Philadelphia,3.0,38.5,136,-162,DraftKings,2026-11-07T20:11Z
-21641,9,2026-11-08 13:00:00-05:00,Washington Commanders,Los Angeles Rams,HT,10.0,6.0,,,Northwest Stadium,Landover,4.5,47.5,195,-238,DraftKings,2026-11-07T20:11Z
-21642,9,2026-11-08 13:00:00-05:00,Carolina Panthers,Denver Broncos,Q2,7.0,10.0,,,Bank of America Stadium,Charlotte,2.5,44.5,120,-142,DraftKings,2026-11-07T20:11Z
-21643,9,2026-11-08 16:05:00-05:00,Los Angeles Chargers,Houston Texans,NS,,,,,SoFi Stadium,Inglewood,5.5,40.5,185,-225,DraftKings,2026-11-08T19:29Z
-21644,9,2026-11-08 16:25:00-05:00,San Francisco 49ers,Las Vegas Raiders,NS,,,,,Levi's Stadium,Santa Clara,-8.5,51.5,-440,340,DraftKings,2026-11-08T19:29Z
-21645,9,2026-11-08 16:25:00-05:00,New England Patriots,Green Bay Packers,NS,,,,,Gillette Stadium,Foxborough,-3.0,44.5,-170,142,DraftKings,2026-11-08T19:29Z
-21646,9,2026-11-08 16:25:00-05:00,Seattle Seahawks,Arizona Cardinals,NS,,,,,Lumen Field,Seattle,-8.5,39.5,-455,350,DraftKings,2026-11-08T19:29Z
-21647,9,2026-11-08 20:20:00-05:00,Chicago Bears,Tampa Bay Buccaneers,NS,,,,,Soldier Field,Chicago,-6.0,47.5,-270,220,DraftKings,2026-11-08T19:29Z
-21648,9,2026-11-09 20:15:00-05:00,Minnesota Vikings,Buffalo Bills,NS,,,,,U.S. Bank Stadium,Minneapolis,3.0,43.5,145,-175,DraftKings,2026-11-08T19:29Z
+21636,9,2026-11-08 13:00:00-05:00,Indianapolis Colts,Dallas Cowboys,FT,23.0,27.0,,,Lucas Oil Stadium,Indianapolis,4.5,51.5,185,-225,DraftKings,2026-11-07T20:11Z
+21637,9,2026-11-08 13:00:00-05:00,Kansas City Chiefs,New York Jets,FT,35.0,12.0,,,Arrowhead Stadium,Kansas City,-9.5,48.5,-535,400,DraftKings,2026-11-07T20:11Z
+21638,9,2026-11-08 13:00:00-05:00,Miami Dolphins,Detroit Lions,FT,9.0,19.0,,,Hard Rock Stadium,Miami Gardens,6.5,49.5,250,-310,DraftKings,2026-11-07T20:11Z
+21639,9,2026-11-08 13:00:00-05:00,New Orleans Saints,Cleveland Browns,AOT,23.0,22.0,7.0,6.0,Caesars Superdome,New Orleans,-3.0,42.5,-166,140,DraftKings,2026-11-07T20:11Z
+21640,9,2026-11-08 13:00:00-05:00,Philadelphia Eagles,New York Giants,FT,11.0,19.0,,,Lincoln Financial Field,Philadelphia,3.0,38.5,136,-162,DraftKings,2026-11-07T20:11Z
+21641,9,2026-11-08 13:00:00-05:00,Washington Commanders,Los Angeles Rams,FT,13.0,20.0,,,Northwest Stadium,Landover,4.5,47.5,195,-238,DraftKings,2026-11-07T20:11Z
+21642,9,2026-11-08 13:00:00-05:00,Carolina Panthers,Denver Broncos,FT,21.0,26.0,,,Bank of America Stadium,Charlotte,2.5,44.5,120,-142,DraftKings,2026-11-07T20:11Z
+21643,9,2026-11-08 16:05:00-05:00,Los Angeles Chargers,Houston Texans,FT,22.0,44.0,,,SoFi Stadium,Inglewood,5.5,40.5,185,-225,DraftKings,2026-11-08T19:29Z
+21644,9,2026-11-08 16:25:00-05:00,San Francisco 49ers,Las Vegas Raiders,FT,38.0,17.0,,,Levi's Stadium,Santa Clara,-8.5,51.5,-440,340,DraftKings,2026-11-08T19:29Z
+21645,9,2026-11-08 16:25:00-05:00,New England Patriots,Green Bay Packers,FT,27.0,45.0,,,Gillette Stadium,Foxborough,-3.0,44.5,-170,142,DraftKings,2026-11-08T19:29Z
+21646,9,2026-11-08 16:25:00-05:00,Seattle Seahawks,Arizona Cardinals,FT,17.0,3.0,,,Lumen Field,Seattle,-8.5,39.5,-455,350,DraftKings,2026-11-08T19:29Z
+21647,9,2026-11-08 20:20:00-05:00,Chicago Bears,Tampa Bay Buccaneers,FT,27.0,24.0,,,Soldier Field,Chicago,-6.0,47.5,-270,220,DraftKings,2026-11-08T19:29Z
+21648,9,2026-11-09 20:15:00-05:00,Minnesota Vikings,Buffalo Bills,Q3,6.0,10.0,,,U.S. Bank Stadium,Minneapolis,3.0,43.5,145,-175,DraftKings,2026-11-08T19:29Z
