@@ -51,3 +51,17 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-10T21:15Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,3.5,55.5,170,-205
 2026-11-10T21:15Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,49.5,-175,145
 2026-11-10T21:15Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-4.5,38.5,-218,180
+2026-11-13T01:00Z,21649,10,2026-11-12 20:15:00-05:00,New York Giants,Washington Commanders,-1.5,40.5,-122,102
+2026-11-13T01:00Z,21650,10,2026-11-15 09:30:00-05:00,Detroit Lions,New England Patriots,-2.5,51.5,-155,130
+2026-11-13T01:00Z,21651,10,2026-11-15 13:00:00-05:00,Atlanta Falcons,Kansas City Chiefs,3.0,46.5,150,-180
+2026-11-13T01:00Z,21652,10,2026-11-15 13:00:00-05:00,Cleveland Browns,Houston Texans,4.5,40.5,185,-225
+2026-11-13T01:00Z,21653,10,2026-11-15 13:00:00-05:00,Green Bay Packers,Minnesota Vikings,-3.0,41.5,-148,124
+2026-11-13T01:00Z,21654,10,2026-11-15 13:00:00-05:00,Tennessee Titans,Jacksonville Jaguars,10.5,46.5,440,-600
+2026-11-13T01:00Z,21655,10,2026-11-15 13:00:00-05:00,Indianapolis Colts,Miami Dolphins,-3.5,38.5,-198,164
+2026-11-13T01:00Z,21656,10,2026-11-15 13:00:00-05:00,New Orleans Saints,Carolina Panthers,-2.5,48.5,-130,110
+2026-11-13T01:00Z,21657,10,2026-11-15 13:00:00-05:00,New York Jets,Buffalo Bills,8.5,50.5,340,-440
+2026-11-13T01:00Z,21658,10,2026-11-15 16:05:00-05:00,Las Vegas Raiders,Seattle Seahawks,6.5,40.5,240,-298
+2026-11-13T01:00Z,21659,10,2026-11-15 16:05:00-05:00,Arizona Cardinals,Los Angeles Rams,9.5,39.5,380,-500
+2026-11-13T01:00Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,3.5,55.5,170,-205
+2026-11-13T01:00Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,49.5,-180,150
+2026-11-13T01:00Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-4.5,38.5,-230,190

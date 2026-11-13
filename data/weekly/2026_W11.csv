@@ -1,0 +1,14 @@
+game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,line_pulled_utc
+21663,11,2026-11-19 20:15:00-05:00,Houston Texans,Indianapolis Colts,NS,,,,,Reliant Stadium,Houston,-10.0,44.5,-455,350,DraftKings,2026-11-13T01:00Z
+21664,11,2026-11-22 13:00:00-05:00,Buffalo Bills,Miami Dolphins,NS,,,,,Highmark Stadium,Orchard Park,-16.5,46.5,-1800,1000,DraftKings,2026-11-13T01:00Z
+21665,11,2026-11-22 13:00:00-05:00,Chicago Bears,New Orleans Saints,NS,,,,,Soldier Field,Chicago,-9.5,48.5,-485,370,DraftKings,2026-11-13T01:00Z
+21666,11,2026-11-22 13:00:00-05:00,Dallas Cowboys,Tennessee Titans,NS,,,,,AT&T Stadium,Arlington,-7.5,51.5,-440,340,DraftKings,2026-11-13T01:00Z
+21667,11,2026-11-22 13:00:00-05:00,Detroit Lions,Tampa Bay Buccaneers,NS,,,,,Ford Field,Detroit,-3.5,47.5,-180,150,DraftKings,2026-11-13T01:00Z
+21668,11,2026-11-22 13:00:00-05:00,Kansas City Chiefs,Arizona Cardinals,NS,,,,,Arrowhead Stadium,Kansas City,-14.0,42.5,-1000,650,DraftKings,2026-11-13T01:00Z
+21669,11,2026-11-22 13:00:00-05:00,New York Giants,Jacksonville Jaguars,NS,,,,,MetLife Stadium,East Rutherford,6.0,44.5,210,-258,DraftKings,2026-11-13T01:00Z
+21670,11,2026-11-22 13:00:00-05:00,Carolina Panthers,Baltimore Ravens,NS,,,,,Bank of America Stadium,Charlotte,-1.5,44.5,-125,105,DraftKings,2026-11-13T01:00Z
+21671,11,2026-11-22 16:05:00-05:00,Los Angeles Chargers,New York Jets,NS,,,,,SoFi Stadium,Inglewood,-1.5,42.5,-125,105,DraftKings,2026-11-13T01:00Z
+21672,11,2026-11-22 16:25:00-05:00,Denver Broncos,Las Vegas Raiders,NS,,,,,Empower Field at Mile High,Denver,-8.5,41.5,-440,340,DraftKings,2026-11-13T01:00Z
+21673,11,2026-11-22 16:25:00-05:00,Philadelphia Eagles,Pittsburgh Steelers,NS,,,,,Lincoln Financial Field,Philadelphia,4.5,38.5,164,-198,DraftKings,2026-11-13T01:00Z
+21674,11,2026-11-22 20:20:00-05:00,San Francisco 49ers,Minnesota Vikings,NS,,,,,Estadio Banorte,Mexico City,-3.5,45.5,-205,170,DraftKings,2026-11-13T01:00Z
+21675,11,2026-11-23 20:15:00-05:00,Washington Commanders,Cincinnati Bengals,NS,,,,,Northwest Stadium,Landover,3.5,51.5,170,-205,DraftKings,2026-11-13T01:00Z
