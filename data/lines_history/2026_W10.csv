@@ -65,3 +65,16 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-13T01:00Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,3.5,55.5,170,-205
 2026-11-13T01:00Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,49.5,-180,150
 2026-11-13T01:00Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-4.5,38.5,-230,190
+2026-11-14T20:40Z,21650,10,2026-11-15 09:30:00-05:00,Detroit Lions,New England Patriots,-2.5,49.5,-148,124
+2026-11-14T20:40Z,21651,10,2026-11-15 13:00:00-05:00,Atlanta Falcons,Kansas City Chiefs,3.0,47.5,140,-166
+2026-11-14T20:40Z,21652,10,2026-11-15 13:00:00-05:00,Cleveland Browns,Houston Texans,4.5,40.5,185,-225
+2026-11-14T20:40Z,21653,10,2026-11-15 13:00:00-05:00,Green Bay Packers,Minnesota Vikings,-2.5,42.5,-148,124
+2026-11-14T20:40Z,21654,10,2026-11-15 13:00:00-05:00,Tennessee Titans,Jacksonville Jaguars,10.5,46.5,525,-750
+2026-11-14T20:40Z,21655,10,2026-11-15 13:00:00-05:00,Indianapolis Colts,Miami Dolphins,-4.5,37.5,-218,180
+2026-11-14T20:40Z,21656,10,2026-11-15 13:00:00-05:00,New Orleans Saints,Carolina Panthers,-2.5,48.5,-135,114
+2026-11-14T20:40Z,21657,10,2026-11-15 13:00:00-05:00,New York Jets,Buffalo Bills,7.5,50.5,310,-395
+2026-11-14T20:40Z,21658,10,2026-11-15 16:05:00-05:00,Las Vegas Raiders,Seattle Seahawks,6.5,40.5,245,-305
+2026-11-14T20:40Z,21659,10,2026-11-15 16:05:00-05:00,Arizona Cardinals,Los Angeles Rams,9.5,39.5,380,-500
+2026-11-14T20:40Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,3.5,55.5,170,-205
+2026-11-14T20:40Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,49.5,-185,154
+2026-11-14T20:40Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-4.5,38.5,-218,180
