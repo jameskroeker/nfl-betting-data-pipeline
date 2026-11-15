@@ -78,3 +78,8 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-14T20:40Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,3.5,55.5,170,-205
 2026-11-14T20:40Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,49.5,-185,154
 2026-11-14T20:40Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-4.5,38.5,-218,180
+2026-11-15T20:18Z,21658,10,2026-11-15 16:05:00-05:00,Las Vegas Raiders,Seattle Seahawks,6.5,40.5,240,-298
+2026-11-15T20:18Z,21659,10,2026-11-15 16:05:00-05:00,Arizona Cardinals,Los Angeles Rams,9.5,38.5,380,-500
+2026-11-15T20:18Z,21660,10,2026-11-15 16:25:00-05:00,Dallas Cowboys,San Francisco 49ers,4.5,55.5,180,-218
+2026-11-15T20:18Z,21661,10,2026-11-15 20:20:00-05:00,Cincinnati Bengals,Pittsburgh Steelers,-3.5,49.5,-192,160
+2026-11-15T20:18Z,21662,10,2026-11-16 20:15:00-05:00,Baltimore Ravens,Los Angeles Chargers,-4.5,38.5,-225,185
