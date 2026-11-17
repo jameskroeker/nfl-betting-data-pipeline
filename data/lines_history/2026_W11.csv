@@ -26,3 +26,14 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-14T20:40Z,21674,11,2026-11-22 20:20:00-05:00,San Francisco 49ers,Minnesota Vikings,-3.5,45.5,-205,170
 2026-11-14T20:40Z,21675,11,2026-11-23 20:15:00-05:00,Washington Commanders,Cincinnati Bengals,3.5,51.5,170,-205
 2026-11-15T20:18Z,21675,11,2026-11-23 20:15:00-05:00,Washington Commanders,Cincinnati Bengals,3.5,51.5,170,-205
+2026-11-17T03:43Z,21663,11,2026-11-19 20:15:00-05:00,Houston Texans,Indianapolis Colts,-11.5,44.5,-650,470
+2026-11-17T03:43Z,21664,11,2026-11-22 13:00:00-05:00,Buffalo Bills,Miami Dolphins,-16.5,45.5,-1450,850
+2026-11-17T03:43Z,21665,11,2026-11-22 13:00:00-05:00,Chicago Bears,New Orleans Saints,-11.5,48.5,-700,500
+2026-11-17T03:43Z,21666,11,2026-11-22 13:00:00-05:00,Dallas Cowboys,Tennessee Titans,-8.5,54.5,-425,330
+2026-11-17T03:43Z,21667,11,2026-11-22 13:00:00-05:00,Detroit Lions,Tampa Bay Buccaneers,-6.5,46.5,-278,225
+2026-11-17T03:43Z,21668,11,2026-11-22 13:00:00-05:00,Kansas City Chiefs,Arizona Cardinals,-16.5,41.5,-1800,1000
+2026-11-17T03:43Z,21669,11,2026-11-22 13:00:00-05:00,New York Giants,Jacksonville Jaguars,6.0,46.5,215,-265
+2026-11-17T03:43Z,21672,11,2026-11-22 16:25:00-05:00,Denver Broncos,Las Vegas Raiders,-10.0,40.5,-550,410
+2026-11-17T03:43Z,21673,11,2026-11-22 16:25:00-05:00,Philadelphia Eagles,Pittsburgh Steelers,4.5,38.5,180,-218
+2026-11-17T03:43Z,21674,11,2026-11-22 20:20:00-05:00,San Francisco 49ers,Minnesota Vikings,-3.0,46.5,-162,136
+2026-11-17T03:43Z,21675,11,2026-11-23 20:15:00-05:00,Washington Commanders,Cincinnati Bengals,6.5,52.5,245,-305
