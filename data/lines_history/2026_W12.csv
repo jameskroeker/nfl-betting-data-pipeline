@@ -15,3 +15,17 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-17T22:50Z,21689,12,2026-11-29 16:25:00-05:00,San Francisco 49ers,Seattle Seahawks,-3.0,46.5,-155,130
 2026-11-17T22:50Z,21690,12,2026-11-29 20:20:00-05:00,Los Angeles Chargers,New England Patriots,-3.5,40.5,-218,180
 2026-11-17T22:50Z,21691,12,2026-11-30 20:15:00-05:00,Tampa Bay Buccaneers,Carolina Panthers,-2.5,43.5,-148,124
+2026-11-20T01:44Z,21676,12,2026-11-25 20:00:00-05:00,Los Angeles Rams,Green Bay Packers,-3.5,45.5,-185,154
+2026-11-20T01:44Z,21677,12,2026-11-26 13:00:00-05:00,Detroit Lions,Chicago Bears,2.5,55.5,124,-148
+2026-11-20T01:44Z,21678,12,2026-11-26 16:30:00-05:00,Dallas Cowboys,Philadelphia Eagles,-8.5,47.5,-395,310
+2026-11-20T01:44Z,21679,12,2026-11-26 20:20:00-05:00,Buffalo Bills,Kansas City Chiefs,-3.0,50.5,-162,136
+2026-11-20T01:44Z,21680,12,2026-11-27 15:00:00-05:00,Pittsburgh Steelers,Denver Broncos,1.5,40.5,100,-120
+2026-11-20T01:44Z,21681,12,2026-11-29 13:00:00-05:00,Cincinnati Bengals,New Orleans Saints,-10.0,52.5,-535,400
+2026-11-20T01:44Z,21682,12,2026-11-29 13:00:00-05:00,Cleveland Browns,Las Vegas Raiders,-4.5,40.5,-198,164
+2026-11-20T01:44Z,21684,12,2026-11-29 13:00:00-05:00,Miami Dolphins,New York Jets,3.0,41.5,140,-166
+2026-11-20T01:44Z,21685,12,2026-11-29 13:00:00-05:00,Minnesota Vikings,Atlanta Falcons,-7.0,42.5,-345,275
+2026-11-20T01:44Z,21687,12,2026-11-29 16:05:00-05:00,Jacksonville Jaguars,Tennessee Titans,-14.5,47.5,-1200,750
+2026-11-20T01:44Z,21688,12,2026-11-29 16:25:00-05:00,Arizona Cardinals,Washington Commanders,6.5,41.5,230,-285
+2026-11-20T01:44Z,21689,12,2026-11-29 16:25:00-05:00,San Francisco 49ers,Seattle Seahawks,-2.5,46.5,-142,120
+2026-11-20T01:44Z,21690,12,2026-11-29 20:20:00-05:00,Los Angeles Chargers,New England Patriots,-4.5,39.5,-225,185
+2026-11-20T01:44Z,21691,12,2026-11-30 20:15:00-05:00,Tampa Bay Buccaneers,Carolina Panthers,-2.5,43.5,-135,114
