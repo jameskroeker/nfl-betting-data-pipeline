@@ -62,3 +62,15 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-20T01:44Z,21672,11,2026-11-22 16:25:00-05:00,Denver Broncos,Las Vegas Raiders,-10.5,40.5,-620,455
 2026-11-20T01:44Z,21674,11,2026-11-22 20:20:00-05:00,San Francisco 49ers,Minnesota Vikings,-3.5,46.5,-174,147
 2026-11-20T01:44Z,21675,11,2026-11-23 20:15:00-05:00,Washington Commanders,Cincinnati Bengals,6.0,53.5,232,-284
+2026-11-21T21:37Z,21664,11,2026-11-22 13:00:00-05:00,Buffalo Bills,Miami Dolphins,-16.5,44.5,-1540,880
+2026-11-21T21:37Z,21665,11,2026-11-22 13:00:00-05:00,Chicago Bears,New Orleans Saints,-11.5,48.5,-620,455
+2026-11-21T21:37Z,21666,11,2026-11-22 13:00:00-05:00,Dallas Cowboys,Tennessee Titans,-7.5,54.5,-356,285
+2026-11-21T21:37Z,21667,11,2026-11-22 13:00:00-05:00,Detroit Lions,Tampa Bay Buccaneers,-4.5,46.5,-223,186
+2026-11-21T21:37Z,21668,11,2026-11-22 13:00:00-05:00,Kansas City Chiefs,Arizona Cardinals,-15.5,40.5,-1560,890
+2026-11-21T21:37Z,21670,11,2026-11-22 13:00:00-05:00,Carolina Panthers,Baltimore Ravens,-3.0,43.5,-149,126
+2026-11-21T21:37Z,21673,11,2026-11-22 13:00:00-05:00,Philadelphia Eagles,Pittsburgh Steelers,3.5,37.5,160,-191
+2026-11-21T21:37Z,21671,11,2026-11-22 16:05:00-05:00,Los Angeles Chargers,New York Jets,-3.0,42.5,-171,144
+2026-11-21T21:37Z,21669,11,2026-11-22 16:25:00-05:00,New York Giants,Jacksonville Jaguars,6.0,46.5,211,-256
+2026-11-21T21:37Z,21672,11,2026-11-22 16:25:00-05:00,Denver Broncos,Las Vegas Raiders,-10.5,40.5,-597,445
+2026-11-21T21:37Z,21674,11,2026-11-22 20:20:00-05:00,San Francisco 49ers,Minnesota Vikings,-3.5,46.5,-172,145
+2026-11-21T21:37Z,21675,11,2026-11-23 20:15:00-05:00,Washington Commanders,Cincinnati Bengals,6.0,54.5,247,-304
