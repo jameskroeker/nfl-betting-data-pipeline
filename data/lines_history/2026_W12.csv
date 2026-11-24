@@ -62,3 +62,19 @@ snapshot_utc,game_id,wk,kickoff_et,home_team_name,away_team_name,spread,total,ho
 2026-11-24T05:17Z,21689,12,2026-11-29 16:25:00-05:00,San Francisco 49ers,Seattle Seahawks,-3.0,46.5,-183,154
 2026-11-24T05:17Z,21690,12,2026-11-29 20:20:00-05:00,Los Angeles Chargers,New England Patriots,-1.5,35.5,-115,-103
 2026-11-24T05:17Z,21691,12,2026-11-30 20:15:00-05:00,Tampa Bay Buccaneers,Carolina Panthers,-3.0,43.5,-155,131
+2026-11-24T23:50Z,21676,12,2026-11-25 20:00:00-05:00,Los Angeles Rams,Green Bay Packers,-2.5,43.5,-136,115
+2026-11-24T23:50Z,21677,12,2026-11-26 13:00:00-05:00,Detroit Lions,Chicago Bears,2.5,55.5,116,-137
+2026-11-24T23:50Z,21678,12,2026-11-26 16:30:00-05:00,Dallas Cowboys,Philadelphia Eagles,-8.5,47.5,-471,364
+2026-11-24T23:50Z,21679,12,2026-11-26 20:20:00-05:00,Buffalo Bills,Kansas City Chiefs,-3.0,47.5,-149,126
+2026-11-24T23:50Z,21680,12,2026-11-27 15:00:00-05:00,Pittsburgh Steelers,Denver Broncos,3.0,37.5,132,-157
+2026-11-24T23:50Z,21681,12,2026-11-29 13:00:00-05:00,Cincinnati Bengals,New Orleans Saints,-10.0,50.5,-610,449
+2026-11-24T23:50Z,21683,12,2026-11-29 13:00:00-05:00,Indianapolis Colts,New York Giants,6.5,41.5,252,-311
+2026-11-24T23:50Z,21684,12,2026-11-29 13:00:00-05:00,Miami Dolphins,New York Jets,3.5,40.5,167,-199
+2026-11-24T23:50Z,21685,12,2026-11-29 13:00:00-05:00,Minnesota Vikings,Atlanta Falcons,-7.0,41.5,-339,272
+2026-11-24T23:50Z,21686,12,2026-11-29 13:00:00-05:00,Houston Texans,Baltimore Ravens,-7.0,47.5,-328,264
+2026-11-24T23:50Z,21687,12,2026-11-29 13:00:00-05:00,Jacksonville Jaguars,Tennessee Titans,-14.5,48.5,-1280,780
+2026-11-24T23:50Z,21690,12,2026-11-29 16:05:00-05:00,Los Angeles Chargers,New England Patriots,-1.5,35.5,-113,-104
+2026-11-24T23:50Z,21688,12,2026-11-29 16:25:00-05:00,Arizona Cardinals,Washington Commanders,7.0,41.5,280,-348
+2026-11-24T23:50Z,21689,12,2026-11-29 16:25:00-05:00,San Francisco 49ers,Seattle Seahawks,-3.5,45.5,-180,151
+2026-11-24T23:50Z,21682,12,2026-11-29 20:20:00-05:00,Cleveland Browns,Las Vegas Raiders,-4.5,40.5,-217,181
+2026-11-24T23:50Z,21691,12,2026-11-30 20:15:00-05:00,Tampa Bay Buccaneers,Carolina Panthers,-3.0,43.5,-154,130
