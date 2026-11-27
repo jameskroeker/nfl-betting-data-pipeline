@@ -1,0 +1,15 @@
+game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,line_pulled_utc
+21692,13,2026-12-03 20:15:00-05:00,Los Angeles Rams,Kansas City Chiefs,NS,,,,,SoFi Stadium,Inglewood,,,,,,
+21693,13,2026-12-06 13:00:00-05:00,Atlanta Falcons,Detroit Lions,NS,,,,,Mercedes-Benz Stadium,Atlanta,,,,,,
+21694,13,2026-12-06 13:00:00-05:00,Chicago Bears,Jacksonville Jaguars,NS,,,,,Soldier Field,Chicago,,,,,,
+21695,13,2026-12-06 13:00:00-05:00,Cleveland Browns,Cincinnati Bengals,NS,,,,,Huntington Bank Field,Cleveland,6.0,46.5,212.0,-258.0,DraftKings,2026-11-27T02:46Z
+21696,13,2026-12-06 13:00:00-05:00,Tennessee Titans,Washington Commanders,NS,,,,,Nissan Stadium,Nashville,4.5,47.5,191.0,-230.0,DraftKings,2026-11-27T02:46Z
+21697,13,2026-12-06 13:00:00-05:00,New Orleans Saints,Green Bay Packers,NS,,,,,Caesars Superdome,New Orleans,4.5,46.5,189.0,-227.0,DraftKings,2026-11-27T02:46Z
+21698,13,2026-12-06 13:00:00-05:00,New York Giants,San Francisco 49ers,NS,,,,,MetLife Stadium,East Rutherford,6.5,47.5,241.0,-295.0,DraftKings,2026-11-27T02:46Z
+21699,13,2026-12-06 13:00:00-05:00,Tampa Bay Buccaneers,Los Angeles Chargers,NS,,,,,Raymond James Stadium,Tampa,-5.5,40.5,-253.0,209.0,DraftKings,2026-11-27T02:46Z
+21700,13,2026-12-06 16:05:00-05:00,Denver Broncos,Miami Dolphins,NS,,,,,Empower Field at Mile High,Denver,-14.5,39.5,-1120.0,710.0,DraftKings,2026-11-27T02:46Z
+21701,13,2026-12-06 16:05:00-05:00,Arizona Cardinals,Philadelphia Eagles,NS,,,,,State Farm Stadium,Glendale,,,,,,
+21702,13,2026-12-06 16:25:00-05:00,Minnesota Vikings,Carolina Panthers,NS,,,,,U.S. Bank Stadium,Minneapolis,-5.5,43.5,-243.0,201.0,DraftKings,2026-11-27T02:46Z
+21703,13,2026-12-06 16:25:00-05:00,New England Patriots,Buffalo Bills,NS,,,,,Gillette Stadium,Foxborough,,,,,,
+21704,13,2026-12-06 20:20:00-05:00,Pittsburgh Steelers,Houston Texans,NS,,,,,Acrisure Stadium,Pittsburgh,4.5,41.5,186.0,-224.0,DraftKings,2026-11-27T02:46Z
+21705,13,2026-12-07 20:15:00-05:00,Seattle Seahawks,Dallas Cowboys,NS,,,,,Lumen Field,Seattle,,,,,,

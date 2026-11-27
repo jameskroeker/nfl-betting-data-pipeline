@@ -1,17 +1,17 @@
 game_id,wk,kickoff_et,home_team_name,away_team_name,status,home_total,away_total,home_ot,away_ot,venue_name,venue_city,closing_spread,game_total,home_moneyline,away_moneyline,bookmaker_name,line_pulled_utc
-21676,12,2026-11-25 20:00:00-05:00,Los Angeles Rams,Green Bay Packers,NS,,,,,SoFi Stadium,Inglewood,-2.5,43.5,-136,115,DraftKings,2026-11-24T23:50Z
-21677,12,2026-11-26 13:00:00-05:00,Detroit Lions,Chicago Bears,NS,,,,,Ford Field,Detroit,2.5,55.5,116,-137,DraftKings,2026-11-24T23:50Z
-21678,12,2026-11-26 16:30:00-05:00,Dallas Cowboys,Philadelphia Eagles,NS,,,,,AT&T Stadium,Arlington,-8.5,47.5,-471,364,DraftKings,2026-11-24T23:50Z
-21679,12,2026-11-26 20:20:00-05:00,Buffalo Bills,Kansas City Chiefs,NS,,,,,Highmark Stadium,Orchard Park,-3.0,47.5,-149,126,DraftKings,2026-11-24T23:50Z
-21680,12,2026-11-27 15:00:00-05:00,Pittsburgh Steelers,Denver Broncos,NS,,,,,Acrisure Stadium,Pittsburgh,3.0,37.5,132,-157,DraftKings,2026-11-24T23:50Z
-21681,12,2026-11-29 13:00:00-05:00,Cincinnati Bengals,New Orleans Saints,NS,,,,,Paycor Stadium,Cincinnati,-10.0,50.5,-610,449,DraftKings,2026-11-24T23:50Z
-21683,12,2026-11-29 13:00:00-05:00,Indianapolis Colts,New York Giants,NS,,,,,Lucas Oil Stadium,Indianapolis,6.5,41.5,252,-311,DraftKings,2026-11-24T23:50Z
-21684,12,2026-11-29 13:00:00-05:00,Miami Dolphins,New York Jets,NS,,,,,Hard Rock Stadium,Miami Gardens,3.5,40.5,167,-199,DraftKings,2026-11-24T23:50Z
-21685,12,2026-11-29 13:00:00-05:00,Minnesota Vikings,Atlanta Falcons,NS,,,,,U.S. Bank Stadium,Minneapolis,-7.0,41.5,-339,272,DraftKings,2026-11-24T23:50Z
-21686,12,2026-11-29 13:00:00-05:00,Houston Texans,Baltimore Ravens,NS,,,,,Reliant Stadium,Houston,-7.0,47.5,-328,264,DraftKings,2026-11-24T23:50Z
-21687,12,2026-11-29 13:00:00-05:00,Jacksonville Jaguars,Tennessee Titans,NS,,,,,EverBank Stadium,Jacksonville,-14.5,48.5,-1280,780,DraftKings,2026-11-24T23:50Z
-21690,12,2026-11-29 16:05:00-05:00,Los Angeles Chargers,New England Patriots,NS,,,,,SoFi Stadium,Inglewood,-1.5,35.5,-113,-104,DraftKings,2026-11-24T23:50Z
-21688,12,2026-11-29 16:25:00-05:00,Arizona Cardinals,Washington Commanders,NS,,,,,State Farm Stadium,Glendale,7.0,41.5,280,-348,DraftKings,2026-11-24T23:50Z
-21689,12,2026-11-29 16:25:00-05:00,San Francisco 49ers,Seattle Seahawks,NS,,,,,Levi's Stadium,Santa Clara,-3.5,45.5,-180,151,DraftKings,2026-11-24T23:50Z
-21682,12,2026-11-29 20:20:00-05:00,Cleveland Browns,Las Vegas Raiders,NS,,,,,Huntington Bank Field,Cleveland,-4.5,40.5,-217,181,DraftKings,2026-11-24T23:50Z
-21691,12,2026-11-30 20:15:00-05:00,Tampa Bay Buccaneers,Carolina Panthers,NS,,,,,Raymond James Stadium,Tampa,-3.0,43.5,-154,130,DraftKings,2026-11-24T23:50Z
+21676,12,2026-11-25 20:00:00-05:00,Los Angeles Rams,Green Bay Packers,FT,26.0,13.0,,,SoFi Stadium,Inglewood,-2.5,43.5,-136,115,DraftKings,2026-11-24T23:50Z
+21677,12,2026-11-26 13:00:00-05:00,Detroit Lions,Chicago Bears,FT,35.0,39.0,,,Ford Field,Detroit,2.5,55.5,116,-137,DraftKings,2026-11-24T23:50Z
+21678,12,2026-11-26 16:30:00-05:00,Dallas Cowboys,Philadelphia Eagles,FT,38.0,39.0,,,AT&T Stadium,Arlington,-8.5,47.5,-471,364,DraftKings,2026-11-24T23:50Z
+21679,12,2026-11-26 20:20:00-05:00,Buffalo Bills,Kansas City Chiefs,Q2,7.0,0.0,,,Highmark Stadium,Orchard Park,-3.0,47.5,-149,126,DraftKings,2026-11-24T23:50Z
+21680,12,2026-11-27 15:00:00-05:00,Pittsburgh Steelers,Denver Broncos,NS,,,,,Acrisure Stadium,Pittsburgh,4.5,36.5,205,-248,DraftKings,2026-11-27T02:46Z
+21681,12,2026-11-29 13:00:00-05:00,Cincinnati Bengals,New Orleans Saints,NS,,,,,Paycor Stadium,Cincinnati,-10.0,49.5,-563,424,DraftKings,2026-11-27T02:46Z
+21683,12,2026-11-29 13:00:00-05:00,Indianapolis Colts,New York Giants,NS,,,,,Lucas Oil Stadium,Indianapolis,6.0,41.5,236,-287,DraftKings,2026-11-27T02:46Z
+21684,12,2026-11-29 13:00:00-05:00,Miami Dolphins,New York Jets,NS,,,,,Hard Rock Stadium,Miami Gardens,4.5,39.5,201,-243,DraftKings,2026-11-27T02:46Z
+21685,12,2026-11-29 13:00:00-05:00,Minnesota Vikings,Atlanta Falcons,NS,,,,,U.S. Bank Stadium,Minneapolis,-7.0,41.5,-311,253,DraftKings,2026-11-27T02:46Z
+21686,12,2026-11-29 13:00:00-05:00,Houston Texans,Baltimore Ravens,NS,,,,,Reliant Stadium,Houston,-6.5,47.5,-332,267,DraftKings,2026-11-27T02:46Z
+21687,12,2026-11-29 13:00:00-05:00,Jacksonville Jaguars,Tennessee Titans,NS,,,,,EverBank Stadium,Jacksonville,-14.5,49.5,-1260,780,DraftKings,2026-11-27T02:46Z
+21690,12,2026-11-29 16:05:00-05:00,Los Angeles Chargers,New England Patriots,NS,,,,,SoFi Stadium,Inglewood,2.5,35.5,116,-137,DraftKings,2026-11-27T02:46Z
+21688,12,2026-11-29 16:25:00-05:00,Arizona Cardinals,Washington Commanders,NS,,,,,State Farm Stadium,Glendale,6.5,41.5,282,-351,DraftKings,2026-11-27T02:46Z
+21689,12,2026-11-29 16:25:00-05:00,San Francisco 49ers,Seattle Seahawks,NS,,,,,Levi's Stadium,Santa Clara,-3.0,43.5,-152,129,DraftKings,2026-11-27T02:46Z
+21682,12,2026-11-29 20:20:00-05:00,Cleveland Browns,Las Vegas Raiders,NS,,,,,Huntington Bank Field,Cleveland,-4.5,40.5,-244,201,DraftKings,2026-11-27T02:46Z
+21691,12,2026-11-30 20:15:00-05:00,Tampa Bay Buccaneers,Carolina Panthers,NS,,,,,Raymond James Stadium,Tampa,-3.0,43.5,-157,132,DraftKings,2026-11-27T02:46Z
